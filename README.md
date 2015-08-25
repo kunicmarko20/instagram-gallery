@@ -21,9 +21,9 @@ When ever you run script.php new images(if there are some new images) will be sa
 I added my script.php to crontab so I don't have to worry about it.
 
 <h1>NOTE:</h1>
-This was made for new instagram account or for accounts with less than 20 pictures,if you instagram account has more than 20 picutres this won't work,because you can grab only recent 20 pictures.
+This was made for new instagram account or for accounts with less than 20 pictures,if your instagram account has more than 20 picutres this won't work,because you can grab only recent 20 pictures.
 
-You can edit it, and grab next_max_id and get other pictures but I did not need it so i didn't add it.
+You can edit it, and grab next_max_id and get other pictures but I did not need it so I didn't add it.
 
 <h1>What you have to edit</h1>
 For this to work you will have to edit index.php and script.php and change info :
